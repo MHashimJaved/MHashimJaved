@@ -1,8 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/53869097/222843064-ce7ddc64-bef0-4c9f-a37d-58ec4629732a.png)
+[MasterHead] (https://user-images.githubusercontent.com/53869097/222843064-ce7ddc64-bef0-4c9f-a37d-58ec4629732a.png)
 
 <h1 align="center">Hi 👋, I'm M.Hashim Javed</h1>
 <h3 align="center">A passionate Flutter developer</h3>
-<img align="right" alt="Coding" width="400" src="https://blog.logrocket.com/wp-content/uploads/2021/04/implicit-animation-example-flying-rocket.gif">
+<img align="right" alt="Coding" width="250" src="https://blog.logrocket.com/wp-content/uploads/2021/04/implicit-animation-example-flying-rocket.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhashimjaved&label=Profile%20views&color=0e75b6&style=flat" alt="mhashimjaved" /> </p>
 
