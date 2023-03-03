@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm M.Hashim Javed</h1>
 <h3 align="center">A passionate Flutter developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.stack.imgur.com/Sb8Nr.gif">
+<img align="right" alt="Coding" width="400" src="https://blog.logrocket.com/wp-content/uploads/2021/04/implicit-animation-example-flying-rocket.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhashimjaved&label=Profile%20views&color=0e75b6&style=flat" alt="mhashimjaved" /> </p>
 
